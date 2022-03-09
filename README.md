@@ -39,4 +39,4 @@ Deployed at: https://shopongoapp.herokuapp.com/
  redux-devtools-extension,
  react-paypal-button-v2,
  react-helmet
- ,axios
+ ,axios.
