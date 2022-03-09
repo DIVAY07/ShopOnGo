@@ -1,4 +1,4 @@
-# ShopOnGo eCommerce Platform
+# ShopOnGo ECommerce Platform
 
 > ShopOnGo is an Ecommerce platform built with the MERN stack & Redux.
 
