@@ -2,7 +2,6 @@
 
 > ShopOnGo is an Ecommerce platform built with the MERN stack & Redux.
 
-Deployed at: https://shopongoapp.herokuapp.com/
 
 ## Features
 
