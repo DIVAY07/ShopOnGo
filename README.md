@@ -21,23 +21,23 @@ Deployed at: https://shopongoapp.herokuapp.com/
 - Database seeder (products & users)
 
 # Packages , tools used
-express
-express-async-handler
-bcryptjs
-dotenv
-mongoose
-colors
-jsonwebtoken
-morgan
-multer
-concurrently
-nodemon
-react-bootstrap
-react-router-dom
-redux
-react-redux
-redux-thunk
-redux-devtools-extension
-react-paypal-button-v2
-react-helmet
-axios
+ -express
+ -express-async-handler
+ -bcryptjs
+ -dotenv
+ -mongoose
+ -colors
+ -jsonwebtoken
+ -morgan
+ -multer
+ -concurrently
+ -nodemon
+ -react-bootstrap
+ -react-router-dom
+ -redux
+ -react-redux
+ -redux-thunk
+ -redux-devtools-extension
+ -react-paypal-button-v2
+ -react-helmet
+ -axios
