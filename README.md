@@ -1,6 +1,6 @@
 # ShopOnGo ECommerce Platform
 
-> ShopOnGo is an Ecommerce platform built with the MERN stack & Redux.
+> ShopOnGo is an Ecommerce platform built with the MERN stack and Redux. It has authentication , payment integration , authorization , product search feature and many more.
 
 
 ## Features
@@ -18,24 +18,3 @@
 - Checkout process (shipping, payment method, etc)
 - PayPal / credit card integration
 - Database seeder (products & users)
-## Packages , tools used
- express,
- express-async-handler,
- bcryptjs,
- dotenv,
- mongoose,
- colors,
- jsonwebtoken,
- morgan,
- multer,
- concurrently,
- nodemon,
- react-bootstrap,
- react-router-dom,
- redux,
- react-redux,
- redux-thunk,
- redux-devtools-extension,
- react-paypal-button-v2,
- react-helmet
- ,axios
